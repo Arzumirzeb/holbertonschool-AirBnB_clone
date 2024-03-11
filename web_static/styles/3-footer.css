@@ -8,5 +8,5 @@ footer {
   text-align: center;
   justify-content: center;
   align-items: center;
-  display: inline-flex;
+  display: flex;
 }
